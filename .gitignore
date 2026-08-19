@@ -1,0 +1,17 @@
+# --- BMAD: 개인 설정 (사람마다 다름, 공유하지 않음) ---
+_bmad/config.user.toml
+_bmad/custom/config.user.toml
+
+# --- 의존성 / 빌드 산출물 ---
+node_modules/
+dist/
+build/
+.env
+.env.local
+
+# --- OS / 에디터 ---
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
